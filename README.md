@@ -1,5 +1,73 @@
 # Hot-Messs-Part-2
 
+Announcement: "https://codepen.io/Shannon-Amos/pen/mdN…"
+Chodum01 Admiris01
+Created 11:57 AM11:57 AM
+https://codepen.io/Shannon-Amos/pen/mdNYWJZ
+
+Add class comment…
+
+
+Announcement: "https://codepen.io/Shannon-Amos/pen/mdN…"
+Chodum01 Admiris01
+Created 7:29 AM7:29 AM (Edited 11:57 AM)
+https://codepen.io/Shannon-Amos/pen/mdNYWJZ
+
+Use of this source code is governed by a BSD-style license that can be
+
+found in the LICENSE file. -->
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US">
+
+<meta charset="utf-8">
+
+<style>
+
+body {
+
+margin: 0;
+
+overflow: hidden;
+
+}
+
+</style>
+
+<link rel="stylesheet" href="//theme/colors.css?sets=ref&generate_rgb_vars=true">
+
+
+
+
+<!-- Order is important for these files since "app_main.js" reads from
+
+   `window.loadTimeData`. -->
+
+<script src="/receiver.js" type="module"></script>
+
+
+
+
+<!-- Populates `window.loadTimeData.data`. Needs to be after "receiver.js" which
+
+loads "sandboxed_load_time_data.js". But module scripts do not block parsing,
+
+so these non-module scripts must be loaded on the defer queue. -->
+
+<script src="/strings.js" defer></script>
+
+<script src="/js/app_main.js" defer></script>
+
+
+
+
+</html>
+Displaying media_AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AiTMzTL1X1EuQr3hoDUcx4wABTQLnNAAAARIAEAC_MPhhXZsHR7OCom0ThM0B.jpg
+media_AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AiTMzTL1X1EuQr3hoDUcx4wABTQLnNAAAARIAEAC_MPhhXZsHR7OCom0ThM0B.jpg
+
+Chodum01 Admiris019:11 AM
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000&quot; frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 TITLE
         https://www.youtube.com/embed/x-XclczZDpU?si=tWAt4hMzuZKf8ZGYhttps://docs.google.com/presentation/d/1j-etx0tvzzzxa00lY61VmJm2WSrxDP8tVorbr_sCaYM/
 NEW POST
