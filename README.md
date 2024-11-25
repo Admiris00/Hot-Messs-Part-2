@@ -5,7 +5,28 @@ Chodum01 Admiris01
 Created 11:57 AM11:57 AM
 https://codepen.io/Shannon-Amos/pen/mdNYWJZ
 
-Add class comment…
+Add class comment…https://www.slideshare.net/slideshow/papa-legba-nb-white-boy-expo-2360-plus-pagesgoogle-com/273409254",
+
+{https://mail.google.com/mail/u/0/?ui=2&ik=4de5a4a8f3&view=lg&permmsgid=msg-a:r-7782969106042210877&ser=1]--Chodum01%20Admiris01
+
+
+  "title": "Papa.Legba.NB White-Boy-Expo-2360@plus.pagesgoogle.com",
+
+  "description": "Matthew Shannon Amos Detailpages ",
+
+  "tag": "Papa.Legba.NB White-Boy-Expo"
+
+  "category": "document",
+
+  "language": "en",
+
+  "privacy": "public",
+
+  "url": "https://www.slideshare.net/slideshow/papa-legba-nb-white-boy-expo-2360-plus-pagesgoogle-com/273409254",
+
+  "download_url": "https://www.slideshare.net/dwnld_file?s_title=papa-legba-nb-white-boy-expo-2360-plus-pagesgoogle-com"
+
+}https://mail.google.com/mail/u/0/?ui=2&ik=4de5a4a8f3&view=lg&permmsgid=msg-a:r-7782969106042210877&ser=1]--Chodum01%20Admiris01
 
 
 Announcement: "https://codepen.io/Shannon-Amos/pen/mdN…"
