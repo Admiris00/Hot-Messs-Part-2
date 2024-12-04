@@ -1,0 +1,43 @@
+https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0 
+
+Play Button On Mon, Nov 25, 2024 at 11:10 AM Chodum01 Admiris01 < https://feedback.gpt.space/p/hott-mess-chodum01-links-in curl \ -H "Content-Type: application/json" \ -d "{\"contents\":[{\"parts\":[{\"text\":\"Explain how AI works\"}]}]}" \ -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=YOUR_API_KEY"===AIzaSyBrLgEz2ag4WaiIE1_eB5AFTrHsH3DZP90 { "title": "Recording 11/25/2024 at 1:31:41 PM", "selectorAttribute": ">https://youtu.be/K-1gYb5sNmg", "steps": [ { "type": "setViewport", "width": 295, "height": 647, "deviceScaleFactor": 1, "isMobile": false, "hasTouch": false, "isLandscape": false }, { "type": "navigate", "url": "https://keep.google.com/u/0/#NOTE/1Wtl3OwEG0jCQPEiPXl4wo9SbjJBcU4gd2nty_MmAz19CG6nCDbP6dIWE > wrote: Chodum01 Admiris01
+
+https://feedback.gpt.space/p/hott-mess-chodum01-links-in
+
+curl \
+  -H "Content-Type: application/json" \
+  -d "{\"contents\":[{\"parts\":[{\"text\":\"Explain how AI works\"}]}]}" \
+  -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=YOUR_API_KEY"===AIzaSyBrLgEz2ag4WaiIE1_eB5AFTrHsH3DZP90
+
+{
+    "title": "Recording 11/25/2024 at 1:31:41 PM",
+    "selectorAttribute": ">https://youtu.be/K-1gYb5sNmg",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 295,
+            "height": 647,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://keep.google.com/u/0/#NOTE/1Wtl3OwEG0jCQPEiPXl4wo9SbjJBcU4gd2nty_MmAz19CG6nCDbP6dIWE5pXyPWk",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://keep.google.com/u/0/#NOTE/1Wtl3OwEG0jCQPEiPXl4wo9SbjJBcU4gd2nty_MmAz19CG6nCDbP6dIWE5pXyPWk",
+                    "title": "Google Keep"
+                }
+            ]
+        },
+        {
+            "type": "waitForElement",
+            "selectors": [
+                [
+                    ".cls"
+                ]
+            ]
+        }Play}https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0{
