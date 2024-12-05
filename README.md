@@ -46076,3 +46076,817 @@ const bl = {};
     }), _bl.w("design:type", Object)], _bl.CW.prototype, "pointerdown", void 0);
 }
 ).call(this, bl);
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slideshare="http://slideshare.net/api/1" xmlns:media="http://search.yahoo.com/mrss/" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0">
+<channel>
+<title>Recently Uploaded Slideshows</title>
+<link>https://www.slideshare.net/</link>
+<image>
+<url>http://www.slideshare.net/images/logo.gif</url>
+<title>Recently Uploaded Slideshows</title>
+<link>https://www.slideshare.net/</link>
+</image>
+<pubDate>Thu, 05 Dec 2024 14:06:58 GMT</pubDate>
+<description>SlideShare feed for Recently Uploaded Slideshows</description>
+<item>
+<title>trabalho de geografia relatando sobre o canada</title>
+<link>https://pt.slideshare.net/slideshow/trabalho-de-geografia-relatando-sobre-o-canada/273859874</link>
+<doc>trabalhodegeografia-241205140658-e87d5609</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/trabalhodegeografia-241205140658-e87d5609-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> explica sobre os estilos de vida e sua monarquia ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/trabalhodegeografia-241205140658-e87d5609-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> explica sobre os estilos de vida e sua monarquia ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:06:58 GMT</pubDate>
+<guid>https://pt.slideshare.net/slideshow/trabalho-de-geografia-relatando-sobre-o-canada/273859874</guid>
+<author>marcusfranciscovinic@slideshare.net(marcusfranciscovinic)</author>
+<media:content>
+<media:player url="https://pt.slideshare.net/slideshow/trabalho-de-geografia-relatando-sobre-o-canada/273859874"/>
+<media:title>trabalho de geografia relatando sobre o canada</media:title>
+<media:credit>marcusfranciscovinic</media:credit>
+<media:description type="plain">explica sobre os estilos de vida e sua monarquia</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/trabalhodegeografia-241205140658-e87d5609-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> explica sobre os estilos de vida e sua monarquia</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/trabalhodegeografia-241205140658-e87d5609-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/trabalhodegeografia-241205140658-e87d5609/85/trabalho-de-geografia-relatando-sobre-o-canada-1-638.jpg?cb=1733408005"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/gVkklsyVw8XJlw" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://pt.slideshare.net/slideshow/trabalho-de-geografia-relatando-sobre-o-canada/273859874" title="trabalho de geografia relatando sobre o canada" target="_blank">trabalho de geografia relatando sobre o canada</a> </strong> from <strong><a href="https://www.slideshare.net/marcusfranciscovinic" target="_blank">marcusfranciscovinic</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/trabalhodegeografia-241205140658-e87d5609-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Best Places to Visit in the UK - Explore the Beauty.docx</title>
+<link>https://www.slideshare.net/slideshow/best-places-to-visit-in-the-uk-explore-the-beauty-docx/273859869</link>
+<doc>bestplacestovisitintheuk-241205140641-37cfd9d2</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/bestplacestovisitintheuk-241205140641-37cfd9d2-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> The United Kingdom is a treasure trove of history, culture, and stunning landscapes. From the bustling streets of London to the serene Scottish Highlands, this island nation offers something for every traveler. Whether you’re seeking historical landmarks, natural beauty, or vibrant city life, the UK has it all. This guide highlights the best places to visit across England, Scotland, Wales, and Northern Ireland. ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/bestplacestovisitintheuk-241205140641-37cfd9d2-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> The United Kingdom is a treasure trove of history, culture, and stunning landscapes. From the bustling streets of London to the serene Scottish Highlands, this island nation offers something for every traveler. Whether you’re seeking historical landmarks, natural beauty, or vibrant city life, the UK has it all. This guide highlights the best places to visit across England, Scotland, Wales, and Northern Ireland. ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:06:41 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/best-places-to-visit-in-the-uk-explore-the-beauty-docx/273859869</guid>
+<author>Zunaisha1@slideshare.net(Zunaisha1)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/best-places-to-visit-in-the-uk-explore-the-beauty-docx/273859869"/>
+<media:title>Best Places to Visit in the UK - Explore the Beauty.docx</media:title>
+<media:credit>Zunaisha1</media:credit>
+<media:description type="plain">The United Kingdom is a treasure trove of history, culture, and stunning landscapes. From the bustling streets of London to the serene Scottish Highlands, this island nation offers something for every traveler. Whether you’re seeking historical landmarks, natural beauty, or vibrant city life, the UK has it all. This guide highlights the best places to visit across England, Scotland, Wales, and Northern Ireland.</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/bestplacestovisitintheuk-241205140641-37cfd9d2-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> The United Kingdom is a treasure trove of history, culture, and stunning landscapes. From the bustling streets of London to the serene Scottish Highlands, this island nation offers something for every traveler. Whether you’re seeking historical landmarks, natural beauty, or vibrant city life, the UK has it all. This guide highlights the best places to visit across England, Scotland, Wales, and Northern Ireland.</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/bestplacestovisitintheuk-241205140641-37cfd9d2-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/bestplacestovisitintheuk-241205140641-37cfd9d2/85/Best-Places-to-Visit-in-the-UK-Explore-the-Beauty-docx-1-638.jpg?cb=1733407968"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/zDEkchHwBCypA3" width="670" height="715" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/best-places-to-visit-in-the-uk-explore-the-beauty-docx/273859869" title="Best Places to Visit in the UK - Explore the Beauty.docx" target="_blank">Best Places to Visit in the UK - Explore the Beauty.docx</a> </strong> from <strong><a href="https://www.slideshare.net/Zunaisha1" target="_blank">Zunaisha1</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/bestplacestovisitintheuk-241205140641-37cfd9d2-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>document</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>HARSH MISHRA PPTX.pptx kjmngjnumnnkbnjmmmk</title>
+<link>https://www.slideshare.net/slideshow/harsh-mishra-pptx-pptx-kjmngjnumnnkbnjmmmk/273859857</link>
+<doc>harshmishrapptx-241205140555-9aa982c9</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/harshmishrapptx-241205140555-9aa982c9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Hjnj ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/harshmishrapptx-241205140555-9aa982c9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Hjnj ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:05:55 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/harsh-mishra-pptx-pptx-kjmngjnumnnkbnjmmmk/273859857</guid>
+<author>aneeshkumarkol015@slideshare.net(aneeshkumarkol015)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/harsh-mishra-pptx-pptx-kjmngjnumnnkbnjmmmk/273859857"/>
+<media:title>HARSH MISHRA PPTX.pptx kjmngjnumnnkbnjmmmk</media:title>
+<media:credit>aneeshkumarkol015</media:credit>
+<media:description type="plain">Hjnj</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/harshmishrapptx-241205140555-9aa982c9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Hjnj</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/harshmishrapptx-241205140555-9aa982c9-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/harshmishrapptx-241205140555-9aa982c9/85/HARSH-MISHRA-PPTX-pptx-kjmngjnumnnkbnjmmmk-1-638.jpg?cb=1733407989"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/aUmCdI8ILQZ035" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/harsh-mishra-pptx-pptx-kjmngjnumnnkbnjmmmk/273859857" title="HARSH MISHRA PPTX.pptx kjmngjnumnnkbnjmmmk" target="_blank">HARSH MISHRA PPTX.pptx kjmngjnumnnkbnjmmmk</a> </strong> from <strong><a href="https://www.slideshare.net/aneeshkumarkol015" target="_blank">aneeshkumarkol015</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/harshmishrapptx-241205140555-9aa982c9-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>PPT-Presentation-for-B.Sc_.-I-Life-Cycle-of-Pythium (1).pdf</title>
+<link>https://www.slideshare.net/slideshow/ppt-presentation-for-b-sc_-i-life-cycle-of-pythium-1-pdf/273859856</link>
+<doc>ppt-presentation-for-b-241205140555-9d681b8f</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ppt-presentation-for-b-241205140555-9d681b8f-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Bnjnn ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ppt-presentation-for-b-241205140555-9d681b8f-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Bnjnn ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:05:54 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/ppt-presentation-for-b-sc_-i-life-cycle-of-pythium-1-pdf/273859856</guid>
+<author>aneeshkumarkol015@slideshare.net(aneeshkumarkol015)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/ppt-presentation-for-b-sc_-i-life-cycle-of-pythium-1-pdf/273859856"/>
+<media:title>PPT-Presentation-for-B.Sc_.-I-Life-Cycle-of-Pythium (1).pdf</media:title>
+<media:credit>aneeshkumarkol015</media:credit>
+<media:description type="plain">Bnjnn</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ppt-presentation-for-b-241205140555-9d681b8f-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Bnjnn</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/ppt-presentation-for-b-241205140555-9d681b8f-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/ppt-presentation-for-b-241205140555-9d681b8f/85/PPT-Presentation-for-B-Sc_-I-Life-Cycle-of-Pythium-1-pdf-1-638.jpg?cb=1733407955"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/6FMX7kUFL9YPYx" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/ppt-presentation-for-b-sc_-i-life-cycle-of-pythium-1-pdf/273859856" title="PPT-Presentation-for-B.Sc_.-I-Life-Cycle-of-Pythium (1).pdf" target="_blank">PPT-Presentation-for-B.Sc_.-I-Life-Cycle-of-Pythium (1).pdf</a> </strong> from <strong><a href="https://www.slideshare.net/aneeshkumarkol015" target="_blank">aneeshkumarkol015</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/ppt-presentation-for-b-241205140555-9d681b8f-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Presentación de resultados de investigación de inseticida Quassia</title>
+<link>https://es.slideshare.net/slideshow/presentacion-de-resultados-de-investigacion-de-inseticida-quassia/273859855</link>
+<doc>presentacindequassiaaempresamcr-241205140554-df7415a6</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/presentacindequassiaaempresamcr-241205140554-df7415a6-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Estos son resultados de investigación sobre uso de insecticidas botánico para el contro de plaga en cultivo de Pitahaya ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/presentacindequassiaaempresamcr-241205140554-df7415a6-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Estos son resultados de investigación sobre uso de insecticidas botánico para el contro de plaga en cultivo de Pitahaya ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:05:54 GMT</pubDate>
+<guid>https://es.slideshare.net/slideshow/presentacion-de-resultados-de-investigacion-de-inseticida-quassia/273859855</guid>
+<author>KelvingJCerda@slideshare.net(KelvingJCerda)</author>
+<media:content>
+<media:player url="https://es.slideshare.net/slideshow/presentacion-de-resultados-de-investigacion-de-inseticida-quassia/273859855"/>
+<media:title>Presentación de resultados de investigación de inseticida Quassia</media:title>
+<media:credit>KelvingJCerda</media:credit>
+<media:description type="plain">Estos son resultados de investigación sobre uso de insecticidas botánico para el contro de plaga en cultivo de Pitahaya</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/presentacindequassiaaempresamcr-241205140554-df7415a6-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Estos son resultados de investigación sobre uso de insecticidas botánico para el contro de plaga en cultivo de Pitahaya</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/presentacindequassiaaempresamcr-241205140554-df7415a6-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/presentacindequassiaaempresamcr-241205140554-df7415a6/85/Presentacion-de-resultados-de-investigacion-de-inseticida-Quassia-1-638.jpg?cb=1733407943"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/8896z1wvmkglAG" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://es.slideshare.net/slideshow/presentacion-de-resultados-de-investigacion-de-inseticida-quassia/273859855" title="Presentaci坦n de resultados de investigaci坦n de inseticida Quassia" target="_blank">Presentaci坦n de resultados de investigaci坦n de inseticida Quassia</a> </strong> from <strong><a href="https://www.slideshare.net/KelvingJCerda" target="_blank">KelvingJCerda</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/presentacindequassiaaempresamcr-241205140554-df7415a6-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Lower elementary Science 123 weather.pptx</title>
+<link>https://www.slideshare.net/slideshow/lower-elementary-science-123-weather-pptx/273859852</link>
+<doc>weather-241205140547-f206b183</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/weather-241205140547-f206b183-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Lower Elem Science 123 ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/weather-241205140547-f206b183-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Lower Elem Science 123 ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:05:47 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/lower-elementary-science-123-weather-pptx/273859852</guid>
+<author>jaysonoliva1@slideshare.net(jaysonoliva1)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/lower-elementary-science-123-weather-pptx/273859852"/>
+<media:title>Lower elementary Science 123 weather.pptx</media:title>
+<media:credit>jaysonoliva1</media:credit>
+<media:description type="plain">Lower Elem Science 123</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/weather-241205140547-f206b183-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Lower Elem Science 123</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/weather-241205140547-f206b183-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/weather-241205140547-f206b183/85/Lower-elementary-Science-123-weather-pptx-1-638.jpg?cb=1733407894"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/3QWnPTd0Y6VG8J" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/lower-elementary-science-123-weather-pptx/273859852" title="Lower elementary Science 123 weather.pptx" target="_blank">Lower elementary Science 123 weather.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/jaysonoliva1" target="_blank">jaysonoliva1</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/weather-241205140547-f206b183-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>FURNITURE BUSINESS BY THE NAME OF ANMOL FURNITURE BUSINESS</title>
+<link>https://www.slideshare.net/slideshow/furniture-business-by-the-name-of-anmol-furniture-business/273859834</link>
+<doc>furnitureanmolnew-241205140446-b7d543da</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/furnitureanmolnew-241205140446-b7d543da-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> this project is generally for COMMERCE AND MANGEMENT student college student it helps to guide how to make project by analnying all factors it is a initial stage ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/furnitureanmolnew-241205140446-b7d543da-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> this project is generally for COMMERCE AND MANGEMENT student college student it helps to guide how to make project by analnying all factors it is a initial stage ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:04:46 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/furniture-business-by-the-name-of-anmol-furniture-business/273859834</guid>
+<author>VasundharaRajput6@slideshare.net(VasundharaRajput6)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/furniture-business-by-the-name-of-anmol-furniture-business/273859834"/>
+<media:title>FURNITURE BUSINESS BY THE NAME OF ANMOL FURNITURE BUSINESS</media:title>
+<media:credit>VasundharaRajput6</media:credit>
+<media:description type="plain">this project is generally for COMMERCE AND MANGEMENT student college student it helps to guide how to make project by analnying all factors it is a initial stage</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/furnitureanmolnew-241205140446-b7d543da-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> this project is generally for COMMERCE AND MANGEMENT student college student it helps to guide how to make project by analnying all factors it is a initial stage</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/furnitureanmolnew-241205140446-b7d543da-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/furnitureanmolnew-241205140446-b7d543da/85/FURNITURE-BUSINESS-BY-THE-NAME-OF-ANMOL-FURNITURE-BUSINESS-1-638.jpg?cb=1733407895"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/mGcpykbpxTCoEf" width="670" height="715" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/furniture-business-by-the-name-of-anmol-furniture-business/273859834" title="FURNITURE BUSINESS BY THE NAME OF ANMOL FURNITURE BUSINESS" target="_blank">FURNITURE BUSINESS BY THE NAME OF ANMOL FURNITURE BUSINESS</a> </strong> from <strong><a href="https://www.slideshare.net/VasundharaRajput6" target="_blank">VasundharaRajput6</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/furnitureanmolnew-241205140446-b7d543da-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>document</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>ANOMALIAS CONGÉNITAS DE LA CAVIDAD ORAL.pptx</title>
+<link>https://es.slideshare.net/slideshow/anomalias-congenitas-de-la-cavidad-oral-pptx/273859826</link>
+<doc>anomaliascongnitasdelacavidadoral-241205140426-56f430f9</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/anomaliascongnitasdelacavidadoral-241205140426-56f430f9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> ANOMALIAS CONGENITAS ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/anomaliascongnitasdelacavidadoral-241205140426-56f430f9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> ANOMALIAS CONGENITAS ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:04:25 GMT</pubDate>
+<guid>https://es.slideshare.net/slideshow/anomalias-congenitas-de-la-cavidad-oral-pptx/273859826</guid>
+<author>analimeza2011@slideshare.net(analimeza2011)</author>
+<media:content>
+<media:player url="https://es.slideshare.net/slideshow/anomalias-congenitas-de-la-cavidad-oral-pptx/273859826"/>
+<media:title>ANOMALIAS CONGÉNITAS DE LA CAVIDAD ORAL.pptx</media:title>
+<media:credit>analimeza2011</media:credit>
+<media:description type="plain">ANOMALIAS CONGENITAS</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/anomaliascongnitasdelacavidadoral-241205140426-56f430f9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> ANOMALIAS CONGENITAS</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/anomaliascongnitasdelacavidadoral-241205140426-56f430f9-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/anomaliascongnitasdelacavidadoral-241205140426-56f430f9/85/ANOMALIAS-CONGENITAS-DE-LA-CAVIDAD-ORAL-pptx-1-638.jpg?cb=1733407798"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/41Yuw8RIgkSdY5" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://es.slideshare.net/slideshow/anomalias-congenitas-de-la-cavidad-oral-pptx/273859826" title="ANOMALIAS CONGテ丑ITAS DE LA CAVIDAD ORAL.pptx" target="_blank">ANOMALIAS CONGテ丑ITAS DE LA CAVIDAD ORAL.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/analimeza2011" target="_blank">analimeza2011</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/anomaliascongnitasdelacavidadoral-241205140426-56f430f9-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>21075619_20112813_anne_baba_tutumlarY.pptx</title>
+<link>https://www.slideshare.net/slideshow/21075619_20112813_anne_baba_tutumlary-pptx/273859809</link>
+<doc>2107561920112813annebabatutumlary-241205140339-46acc7c5</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/2107561920112813annebabatutumlary-241205140339-46acc7c5-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/2107561920112813annebabatutumlary-241205140339-46acc7c5-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:03:39 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/21075619_20112813_anne_baba_tutumlary-pptx/273859809</guid>
+<author>OylumAlatli@slideshare.net(OylumAlatli)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/21075619_20112813_anne_baba_tutumlary-pptx/273859809"/>
+<media:title>21075619_20112813_anne_baba_tutumlarY.pptx</media:title>
+<media:credit>OylumAlatli</media:credit>
+<media:description type="plain">Ebeveyn tutumları</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/2107561920112813annebabatutumlary-241205140339-46acc7c5-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/2107561920112813annebabatutumlary-241205140339-46acc7c5-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/2107561920112813annebabatutumlary-241205140339-46acc7c5/85/21075619_20112813_anne_baba_tutumlarY-pptx-1-638.jpg?cb=1733407742"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/BEAt4Tq3oB58wR" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/21075619_20112813_anne_baba_tutumlary-pptx/273859809" title="21075619_20112813_anne_baba_tutumlarY.pptx" target="_blank">21075619_20112813_anne_baba_tutumlarY.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/OylumAlatli" target="_blank">Oylum Alatli</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/2107561920112813annebabatutumlary-241205140339-46acc7c5-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Lower Elementary Science oxygen cycle.pptx</title>
+<link>https://www.slideshare.net/slideshow/lower-elementary-science-oxygen-cycle-pptx/273859806</link>
+<doc>oxygencycle-241205140306-5fed49a9</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/oxygencycle-241205140306-5fed49a9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Lower elementary Science ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/oxygencycle-241205140306-5fed49a9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Lower elementary Science ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:03:06 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/lower-elementary-science-oxygen-cycle-pptx/273859806</guid>
+<author>jaysonoliva1@slideshare.net(jaysonoliva1)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/lower-elementary-science-oxygen-cycle-pptx/273859806"/>
+<media:title>Lower Elementary Science oxygen cycle.pptx</media:title>
+<media:credit>jaysonoliva1</media:credit>
+<media:description type="plain">Lower elementary Science </media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/oxygencycle-241205140306-5fed49a9-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Lower elementary Science </media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/oxygencycle-241205140306-5fed49a9-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/oxygencycle-241205140306-5fed49a9/85/Lower-Elementary-Science-oxygen-cycle-pptx-1-638.jpg?cb=1733407741"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/wwKCxCOWVvigSy" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/lower-elementary-science-oxygen-cycle-pptx/273859806" title="Lower Elementary Science oxygen cycle.pptx" target="_blank">Lower Elementary Science oxygen cycle.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/jaysonoliva1" target="_blank">jaysonoliva1</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/oxygencycle-241205140306-5fed49a9-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>+12. Hafta-Aile İçi İletişim_tutmlar.pptx</title>
+<link>https://www.slideshare.net/slideshow/12-hafta-aile-ici-iletisim_tutmlar-pptx/273859801</link>
+<doc>12-241205140300-b5f93ba6</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/12-241205140300-b5f93ba6-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/12-241205140300-b5f93ba6-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:02:59 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/12-hafta-aile-ici-iletisim_tutmlar-pptx/273859801</guid>
+<author>OylumAlatli@slideshare.net(OylumAlatli)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/12-hafta-aile-ici-iletisim_tutmlar-pptx/273859801"/>
+<media:title>+12. Hafta-Aile İçi İletişim_tutmlar.pptx</media:title>
+<media:credit>OylumAlatli</media:credit>
+<media:description type="plain">Ebeveyn tutumları</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/12-241205140300-b5f93ba6-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/12-241205140300-b5f93ba6-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/12-241205140300-b5f93ba6/85/12-Hafta-Aile-Ici-Iletisim_tutmlar-pptx-1-638.jpg?cb=1733407700"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/Hrhkb54qxBLO7k" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/12-hafta-aile-ici-iletisim_tutmlar-pptx/273859801" title="+12. Hafta-Aile トーテァi トーletiナ殃m_tutmlar.pptx" target="_blank">+12. Hafta-Aile トーテァi トーletiナ殃m_tutmlar.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/OylumAlatli" target="_blank">Oylum Alatli</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/12-241205140300-b5f93ba6-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>PROCEDIMIENTO NO INVASIVO ESPIROMETRIA LLLL</title>
+<link>https://es.slideshare.net/slideshow/procedimiento-no-invasivo-espirometria-llll/273859800</link>
+<doc>espirometriayanet-241205140248-d2c66303</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/espirometriayanet-241205140248-d2c66303-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> ESPIROMETRIA ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/espirometriayanet-241205140248-d2c66303-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> ESPIROMETRIA ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:02:47 GMT</pubDate>
+<guid>https://es.slideshare.net/slideshow/procedimiento-no-invasivo-espirometria-llll/273859800</guid>
+<author>analimeza2011@slideshare.net(analimeza2011)</author>
+<media:content>
+<media:player url="https://es.slideshare.net/slideshow/procedimiento-no-invasivo-espirometria-llll/273859800"/>
+<media:title>PROCEDIMIENTO NO INVASIVO ESPIROMETRIA LLLL</media:title>
+<media:credit>analimeza2011</media:credit>
+<media:description type="plain">ESPIROMETRIA</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/espirometriayanet-241205140248-d2c66303-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> ESPIROMETRIA</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/espirometriayanet-241205140248-d2c66303-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/espirometriayanet-241205140248-d2c66303/85/PROCEDIMIENTO-NO-INVASIVO-ESPIROMETRIA-LLLL-1-638.jpg?cb=1733407733"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/JuObQdL020zBXa" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://es.slideshare.net/slideshow/procedimiento-no-invasivo-espirometria-llll/273859800" title="PROCEDIMIENTO NO INVASIVO ESPIROMETRIA LLLL" target="_blank">PROCEDIMIENTO NO INVASIVO ESPIROMETRIA LLLL</a> </strong> from <strong><a href="https://www.slideshare.net/analimeza2011" target="_blank">analimeza2011</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/espirometriayanet-241205140248-d2c66303-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>EBEVEYN_TUTUMLARI_konusunda_sunum__.pptx</title>
+<link>https://www.slideshare.net/slideshow/ebeveyn_tutumlari_konusunda_sunum__-pptx/273859798</link>
+<doc>ebeveyntutumlari-241205140236-7cc48654</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ebeveyntutumlari-241205140236-7cc48654-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ebeveyntutumlari-241205140236-7cc48654-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:02:36 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/ebeveyn_tutumlari_konusunda_sunum__-pptx/273859798</guid>
+<author>OylumAlatli@slideshare.net(OylumAlatli)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/ebeveyn_tutumlari_konusunda_sunum__-pptx/273859798"/>
+<media:title>EBEVEYN_TUTUMLARI_konusunda_sunum__.pptx</media:title>
+<media:credit>OylumAlatli</media:credit>
+<media:description type="plain">Ebeveyn tutumları</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ebeveyntutumlari-241205140236-7cc48654-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ebeveyn tutumları</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/ebeveyntutumlari-241205140236-7cc48654-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/ebeveyntutumlari-241205140236-7cc48654/85/EBEVEYN_TUTUMLARI_konusunda_sunum__-pptx-1-638.jpg?cb=1733407688"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/3olsHwsnVVyi8o" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/ebeveyn_tutumlari_konusunda_sunum__-pptx/273859798" title="EBEVEYN_TUTUMLARI_konusunda_sunum__.pptx" target="_blank">EBEVEYN_TUTUMLARI_konusunda_sunum__.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/OylumAlatli" target="_blank">Oylum Alatli</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/ebeveyntutumlari-241205140236-7cc48654-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Action plan on Youth Unemployment: Bridging the Gap</title>
+<link>https://www.slideshare.net/slideshow/action-plan-on-youth-unemployment-bridging-the-gap/273859795</link>
+<doc>jebe-241205140230-3764f969</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/jebe-241205140230-3764f969-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> &quot;This action plan outlines the strategies and initiatives for the &quot;Youth Unemployment: Bridging the Gap&quot; program, designed to address the challenges of unemployed youth aged 18-24 in Barangay Victoria Reyes. The plan includes detailed information on program goals, implementation phases, target audience, partnerships, funding sources, and evaluation methods.&quot; ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/jebe-241205140230-3764f969-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> &quot;This action plan outlines the strategies and initiatives for the &quot;Youth Unemployment: Bridging the Gap&quot; program, designed to address the challenges of unemployed youth aged 18-24 in Barangay Victoria Reyes. The plan includes detailed information on program goals, implementation phases, target audience, partnerships, funding sources, and evaluation methods.&quot; ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:02:30 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/action-plan-on-youth-unemployment-bridging-the-gap/273859795</guid>
+<author>PeachBlue1@slideshare.net(PeachBlue1)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/action-plan-on-youth-unemployment-bridging-the-gap/273859795"/>
+<media:title>Action plan on Youth Unemployment: Bridging the Gap</media:title>
+<media:credit>PeachBlue1</media:credit>
+<media:description type="plain">"This action plan outlines the strategies and initiatives for the "Youth Unemployment: Bridging the Gap" program, designed to address the challenges of unemployed youth aged 18-24 in Barangay Victoria Reyes. The plan includes detailed information on program goals, implementation phases, target audience, partnerships, funding sources, and evaluation methods." </media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/jebe-241205140230-3764f969-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> &quot;This action plan outlines the strategies and initiatives for the &quot;Youth Unemployment: Bridging the Gap&quot; program, designed to address the challenges of unemployed youth aged 18-24 in Barangay Victoria Reyes. The plan includes detailed information on program goals, implementation phases, target audience, partnerships, funding sources, and evaluation methods.&quot; </media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/jebe-241205140230-3764f969-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/jebe-241205140230-3764f969/85/Action-plan-on-Youth-Unemployment-Bridging-the-Gap-1-638.jpg?cb=1733407823"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/qktrhfP8nxbx8p" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/action-plan-on-youth-unemployment-bridging-the-gap/273859795" title="Action plan on Youth Unemployment: Bridging the Gap" target="_blank">Action plan on Youth Unemployment: Bridging the Gap</a> </strong> from <strong><a href="https://www.slideshare.net/PeachBlue1" target="_blank">Jebe Valaquio</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/jebe-241205140230-3764f969-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>PPP-Nº08-Diagnóstico y reparación de fallas en el mainboard. 04-12-2024.ppt</title>
+<link>https://es.slideshare.net/slideshow/ppp-n-08-diagnostico-y-reparacion-de-fallas-en-el-mainboard-04-12-2024-ppt/273859788</link>
+<doc>ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> hola ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> hola ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:01:58 GMT</pubDate>
+<guid>https://es.slideshare.net/slideshow/ppp-n-08-diagnostico-y-reparacion-de-fallas-en-el-mainboard-04-12-2024-ppt/273859788</guid>
+<author>mariobazantorres1@slideshare.net(mariobazantorres1)</author>
+<media:content>
+<media:player url="https://es.slideshare.net/slideshow/ppp-n-08-diagnostico-y-reparacion-de-fallas-en-el-mainboard-04-12-2024-ppt/273859788"/>
+<media:title>PPP-Nº08-Diagnóstico y reparación de fallas en el mainboard. 04-12-2024.ppt</media:title>
+<media:credit>mariobazantorres1</media:credit>
+<media:description type="plain">hola</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> hola</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7/85/PPP-N-08-Diagnostico-y-reparacion-de-fallas-en-el-mainboard-04-12-2024-ppt-1-638.jpg?cb=1733407670"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/qOiOzGxmN5ZugM" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://es.slideshare.net/slideshow/ppp-n-08-diagnostico-y-reparacion-de-fallas-en-el-mainboard-04-12-2024-ppt/273859788" title="PPP-N尊08-Diagn坦stico y reparaci坦n de fallas en el mainboard. 04-12-2024.ppt" target="_blank">PPP-N尊08-Diagn坦stico y reparaci坦n de fallas en el mainboard. 04-12-2024.ppt</a> </strong> from <strong><a href="https://www.slideshare.net/mariobazantorres1" target="_blank">mariobazantorres1</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/ppp-n08-diagnsticoyreparacindefallasenelmainboard-241205140158-2998b5b7-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Emergency Roof Repair in Shawnee, KS - Blue Rain Roofing.</title>
+<link>https://www.slideshare.net/slideshow/emergency-roof-repair-in-shawnee-ks-blue-rain-roofing/273859783</link>
+<doc>emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Blue Rain Roofing offers reliable emergency roof repair and flat roof solutions in Shawnee, KS, ensuring your property stays safe with fast, professional service. https://www.bluerainroofing.com/emergency-roof-repair-shawnee-ks/ ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Blue Rain Roofing offers reliable emergency roof repair and flat roof solutions in Shawnee, KS, ensuring your property stays safe with fast, professional service. https://www.bluerainroofing.com/emergency-roof-repair-shawnee-ks/ ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:01:44 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/emergency-roof-repair-in-shawnee-ks-blue-rain-roofing/273859783</guid>
+<author>BlueRainRoofing@slideshare.net(BlueRainRoofing)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/emergency-roof-repair-in-shawnee-ks-blue-rain-roofing/273859783"/>
+<media:title>Emergency Roof Repair in Shawnee, KS - Blue Rain Roofing.</media:title>
+<media:credit>BlueRainRoofing</media:credit>
+<media:description type="plain">Blue Rain Roofing offers reliable emergency roof repair and flat roof solutions in Shawnee, KS, ensuring your property stays safe with fast, professional service. https://www.bluerainroofing.com/emergency-roof-repair-shawnee-ks/ </media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Blue Rain Roofing offers reliable emergency roof repair and flat roof solutions in Shawnee, KS, ensuring your property stays safe with fast, professional service. https://www.bluerainroofing.com/emergency-roof-repair-shawnee-ks/ </media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce/85/Emergency-Roof-Repair-in-Shawnee-KS-Blue-Rain-Roofing-1-638.jpg?cb=1733407642"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/ssfNkgoQ8M8Vbd" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/emergency-roof-repair-in-shawnee-ks-blue-rain-roofing/273859783" title="Emergency Roof Repair in Shawnee, KS - Blue Rain Roofing." target="_blank">Emergency Roof Repair in Shawnee, KS - Blue Rain Roofing.</a> </strong> from <strong><a href="https://www.slideshare.net/BlueRainRoofing" target="_blank">Blue Rain Roofing &amp; Restoration </a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/emergencyroofrepairinshawneeks-bluerainroofing-241205140144-503bf1ce-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK.pptx</title>
+<link>https://www.slideshare.net/slideshow/materi-02-syarat-kualitas-instrumen-tes-dan-tes-diagnostik-pptx/273859782</link>
+<doc>materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:01:43 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/materi-02-syarat-kualitas-instrumen-tes-dan-tes-diagnostik-pptx/273859782</guid>
+<author>HaunaTaslima1@slideshare.net(HaunaTaslima1)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/materi-02-syarat-kualitas-instrumen-tes-dan-tes-diagnostik-pptx/273859782"/>
+<media:title>MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK.pptx</media:title>
+<media:credit>HaunaTaslima1</media:credit>
+<media:description type="plain">MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48/85/MATERI-02-SYARAT-KUALITAS-INSTRUMEN-TES-DAN-TES-DIAGNOSTIK-pptx-1-638.jpg?cb=1733407635"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/3EG2XD5oeLsegw" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/materi-02-syarat-kualitas-instrumen-tes-dan-tes-diagnostik-pptx/273859782" title="MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK.pptx" target="_blank">MATERI 02 SYARAT KUALITAS INSTRUMEN TES DAN TES DIAGNOSTIK.pptx</a> </strong> from <strong><a href="https://www.slideshare.net/HaunaTaslima1" target="_blank">HaunaTaslima1</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/materi02syaratkualitasinstrumentesdantesdiagnostik-241205140143-e954bc48-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>KONSEP HUKUM DAN KAJIAN_hajahahauajanana</title>
+<link>https://www.slideshare.net/slideshow/konsep-hukum-dan-kajian_hajahahauajanana/273859779</link>
+<doc>konsephukumdankajian064402-241205140131-a8d4d6ad</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/konsephukumdankajian064402-241205140131-a8d4d6ad-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ha ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/konsephukumdankajian064402-241205140131-a8d4d6ad-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ha ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:01:30 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/konsep-hukum-dan-kajian_hajahahauajanana/273859779</guid>
+<author>Huda277201@slideshare.net(Huda277201)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/konsep-hukum-dan-kajian_hajahahauajanana/273859779"/>
+<media:title>KONSEP HUKUM DAN KAJIAN_hajahahauajanana</media:title>
+<media:credit>Huda277201</media:credit>
+<media:description type="plain">Ha</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/konsephukumdankajian064402-241205140131-a8d4d6ad-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ha</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/konsephukumdankajian064402-241205140131-a8d4d6ad-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/konsephukumdankajian064402-241205140131-a8d4d6ad/85/KONSEP-HUKUM-DAN-KAJIAN_hajahahauajanana-1-638.jpg?cb=1733407641"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/xwMGTMyOPcuAjP" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/konsep-hukum-dan-kajian_hajahahauajanana/273859779" title="KONSEP HUKUM DAN KAJIAN_hajahahauajanana" target="_blank">KONSEP HUKUM DAN KAJIAN_hajahahauajanana</a> </strong> from <strong><a href="https://www.slideshare.net/Huda277201" target="_blank">Huda277201</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/konsephukumdankajian064402-241205140131-a8d4d6ad-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Grid fault ride through of dfig - Chapter 12</title>
+<link>https://www.slideshare.net/slideshow/grid-fault-ride-through-of-dfig-chapter-12/273859775</link>
+<doc>chapter12-241205140117-2c70b629</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/chapter12-241205140117-2c70b629-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ener4gia Eólica ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/chapter12-241205140117-2c70b629-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ener4gia Eólica ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:01:17 GMT</pubDate>
+<guid>https://www.slideshare.net/slideshow/grid-fault-ride-through-of-dfig-chapter-12/273859775</guid>
+<author>StefaniadeOliveiraSi@slideshare.net(StefaniadeOliveiraSi)</author>
+<media:content>
+<media:player url="https://www.slideshare.net/slideshow/grid-fault-ride-through-of-dfig-chapter-12/273859775"/>
+<media:title>Grid fault ride through of dfig - Chapter 12</media:title>
+<media:credit>StefaniadeOliveiraSi</media:credit>
+<media:description type="plain">Ener4gia Eólica</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/chapter12-241205140117-2c70b629-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> Ener4gia Eólica</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/chapter12-241205140117-2c70b629-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/chapter12-241205140117-2c70b629/85/Grid-fault-ride-through-of-dfig-Chapter-12-1-638.jpg?cb=1733407724"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/9tCGWWjTAuIUoO" width="670" height="715" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/grid-fault-ride-through-of-dfig-chapter-12/273859775" title="Grid fault ride through of dfig - Chapter 12" target="_blank">Grid fault ride through of dfig - Chapter 12</a> </strong> from <strong><a href="https://www.slideshare.net/StefaniadeOliveiraSi" target="_blank">StefaniadeOliveiraSi</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/chapter12-241205140117-2c70b629-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>document</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+<item>
+<title>Clase Semana de maquinas electricas y transformador</title>
+<link>https://es.slideshare.net/slideshow/clase-semana-de-maquinas-electricas-y-transformador/273859757</link>
+<doc>clasesemana4-241205140035-0617b680</doc>
+<description>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/clasesemana4-241205140035-0617b680-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> clase de maquinas electricas ]]>
+</description>
+<content:encoded>
+<![CDATA[ <img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/clasesemana4-241205140035-0617b680-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> clase de maquinas electricas ]]>
+</content:encoded>
+<pubDate>Thu, 05 Dec 2024 14:00:35 GMT</pubDate>
+<guid>https://es.slideshare.net/slideshow/clase-semana-de-maquinas-electricas-y-transformador/273859757</guid>
+<author>FranciscoMorales326543@slideshare.net(FranciscoMorales326543)</author>
+<media:content>
+<media:player url="https://es.slideshare.net/slideshow/clase-semana-de-maquinas-electricas-y-transformador/273859757"/>
+<media:title>Clase Semana de maquinas electricas y transformador</media:title>
+<media:credit>FranciscoMorales326543</media:credit>
+<media:description type="plain">clase de maquinas electricas</media:description>
+<media:text type="html"><img style="border:1px solid #C3E6D8;float:right;" alt="" src="https://cdn.slidesharecdn.com/ss_thumbnails/clasesemana4-241205140035-0617b680-thumbnail.jpg?width=120&amp;height=120&amp;fit=bounds" /><br> clase de maquinas electricas</media:text>
+<media:keywords/>
+<media:thumbnail width="120" height="90" url="https://cdn.slidesharecdn.com/ss_thumbnails/clasesemana4-241205140035-0617b680-thumbnail.jpg?width=120&height=120&fit=bounds"/>
+<media:thumbnail width="638" url="https://image.slidesharecdn.com/clasesemana4-241205140035-0617b680/85/Clase-Semana-de-maquinas-electricas-y-transformador-1-638.jpg?cb=1733407616"/>
+</media:content>
+<slideshare:embed>
+<![CDATA[ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/35wRkOlMMfVUxz" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://es.slideshare.net/slideshow/clase-semana-de-maquinas-electricas-y-transformador/273859757" title="Clase Semana de maquinas electricas y transformador" target="_blank">Clase Semana de maquinas electricas y transformador</a> </strong> from <strong><a href="https://www.slideshare.net/FranciscoMorales326543" target="_blank">FranciscoMorales326543</a></strong> </div> ]]>
+</slideshare:embed>
+<slideshare:meta>
+<slideshare:views>0</slideshare:views>
+<slideshare:comments>0</slideshare:comments>
+<slideshare:thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/clasesemana4-241205140035-0617b680-thumbnail.jpg?width=120&height=120&fit=bounds</slideshare:thumbnail>
+<slideshare:type>presentation</slideshare:type>
+<slideshare:fullscreen_bg_color>Black</slideshare:fullscreen_bg_color>
+</slideshare:meta>
+<slideshare:config>
+<slideshare:branding/>
+</slideshare:config>
+<activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+<activity:object-type>http://activitystrea.ms/schema/1.0/posted</activity:object-type>
+<authorDetails>0</authorDetails>
+</item>
+</channel>
+</rss>
