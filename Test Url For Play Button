@@ -1,0 +1,34 @@
+ }Play}https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0{
+    "title": "Recording 11/25/2024 at 1:31:41 PM",
+    "selectorAttribute": ">https://drive.google.com/file/d/1zHcNYZthTkbFKGan3pgec93-yZVvZ_cT/view?ts=6782a237
+",
+
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 295,
+            "height": 647,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://drive.google.com/file/d/1zHcNYZthTkbFKGan3pgec93-yZVvZ_cT/view?ts=6782a237",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://drive.google.com/file/d/1zHcNYZthTkbFKGan3pgec93-yZVvZ_cT/view?ts=6782a237",
+                    "title": "Google Keep"
+                }
+            ]
+        },
+        {
+            "type": "waitForElement",
+            "selectors": [
+                [
+                    ".cls"
+                ]
+            ]
+        }Play}https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0{
