@@ -37,3 +37,62 @@
 Chodum01 Admiris019:11 AM
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000&fbclid=IwY2xjawHvqwpleHRuA2FlbQIxMAABHa3orVnlFfzznkPrGWjh4ok8bVPCfiGbWZF1wg9muVvhqI3roPzDAyk_Zg_aem_J29ywAU7dW5-V7BwZkTV4w&slide=id.g318b0cc6c7e_1_0
+
+https://github.com/Admiris00/Hot-Messs-Part-2/issues/4#issuecomment-2496117077
+
+
+
+
+
+video <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfVJN4yiAjwY7pA3qPz3EZI0tPBRTmoMu5m6NveLaoGYTP3TBAM-xbWNfSmerk2ubJp8kv4RxyAowR/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> aria-description="_@name-less (1).mp4" autopictureinpicture="" style="cursor: unset;"></video><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+
+
+https://docs.google.com/presentation/d/1HvTtnz8u9aMPzpYREcGDLHE4Cnz8pz-Wbzs674D-oP0/edit#slide=id.g318b0cc6c7e_1_0
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US">
+
+<meta charset="utf-8">
+
+<style>
+
+body {
+
+margin: 0;
+
+overflow: hidden;
+
+}
+
+</style>
+
+
+<!-- Order is important for these files since "app_main.js" reads from
+
+`window.loadTimeData`. -->
+
+<script src="/receiver.js" type="module"></script>
+
+
+<!-- Populates `window.loadTimeData.data`. Needs to be after "receiver.js" which
+
+loads "sandboxed_load_time_data.js". But module scripts do not block parsing,
+
+so these non-module scripts must be loaded on the defer queue. -->
+
+<script src="/strings.js" defer></script>
+
+<script src="/js/app_main.js" defer></script>
+
+
+</html>
+
