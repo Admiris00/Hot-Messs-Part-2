@@ -41,3 +41,44 @@ curl \
                 ]
             ]
         }Play}https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0{
+
+
+ }Play}https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0{
+    "title": "Recording 11/25/2024 at 1:31:41 PM",
+    "selectorAttribute": ">https://drive.google.com/file/d/1zHcNYZthTkbFKGan3pgec93-yZVvZ_cT/view?ts=6782a237
+",
+
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 295,
+            "height": 647,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://drive.google.com/file/d/1zHcNYZthTkbFKGan3pgec93-yZVvZ_cT/view?ts=6782a237",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://drive.google.com/file/d/1zHcNYZthTkbFKGan3pgec93-yZVvZ_cT/view?ts=6782a237",
+                    "title": "Google Keep"
+                }
+            ]
+        },
+        {
+            "type": "waitForElement",
+            "selectors": [
+                [
+                    ".cls"
+                ]
+            ]
+        }Play}https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0https://docs.google.com/document/d/1_lFSGwnRrKAHCGA_a9k4VN8P0bhDN0RyWLJqEwK1xO8/edit?tab=t.0{
+
+<style> body { margin: 0; overflow: hidden; } </style> <script src="/receiver.js" type="module"></script> <script src="/strings.js" defer></script> <script src="/js/app_main.js" defer></script> <style> body { margin: 0; overflow: hidden; } </style> <script src="/receiver.js" type="module"></script> <script src="/strings.js" defer></script> <script src="/js/app_main.js" defer></script> Displaying media_AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AiTMzTL1X1EuQr3hoDUcx4wABTQLnNAAAARIAEAC_MPhhXZsHR7OCom0ThM0B.jpg media_AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0AiTMzTL1X1EuQr3hoDUcx4wABTQLnNAAAARIAEAC_MPhhXZsHR7OCom0ThM0B.jpg
+Chodum01 Admiris019:11 AM
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
