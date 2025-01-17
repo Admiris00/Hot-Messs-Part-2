@@ -96,3 +96,113 @@ so these non-module scripts must be loaded on the defer queue. -->
 
 </html>
 
+  https://docs.google.com/presentation/d/1HvTtnz8u9aMPzpYREcGDLHE4Cnz8pz-Wbzs674D-oP0/edit#slide=id.g318b0cc6c7e_1_0
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US">
+
+<meta charset="utf-8">
+
+<style>
+
+body {
+
+margin: 0;
+
+overflow: hidden;
+
+}
+
+</style>
+
+
+<!-- Order is important for these files since "app_main.js" reads from
+
+`window.loadTimeData`. -->
+
+<script src="/receiver.js" type="module"></script>
+
+
+<!-- Populates `window.loadTimeData.data`. Needs to be after "receiver.js" which
+
+loads "sandboxed_load_time_data.js". But module scripts do not block parsing,
+
+so these non-module scripts must be loaded on the defer queue. -->
+
+<script src="/strings.js" defer></script>
+
+<script src="/js/app_main.js" defer></script>
+
+
+</html>
+
+
+Step 2         3 docid   For Google Cube Play Button 
+
+https://docs.google.com/presentation/d/1RPgVGxVjkITBU8g98cRnSKp1OvD68curpbyMJIgK7nw/edit?fbclid=IwY2xjawH3P1NleHRuA2FlbQIxMAABHaNtvJXfUb4ndq5qhyqThYS1K_0ZV2YMCpOYgJUGkrqIeoJukpaF5pjhGg_aem_Mq4NkeHNx1t-yLo2umJDpg#slide=id.g318b0cc6c7e_1_13
+
+Step 3        3 docid    For Google Bluetooth Play Button Mirror Match Step Two For Ping And Puc 
+
+
+https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000&fbclid=IwY2xjawH3OFpleHRuA2FlbQIxMAABHUXPRpT4-YqW2vsSQhOep84kV2ughJZDVNJahfUXC1rGxd20bqH3I1kCNA_aem_RMdUqHAwHGuz_I3YhxrmOg&slide=id.g318b0cc6c7e_1_13
+
+
+
+
+Step 1 Function Key 
+
+                                         https://docs.google.com/presentation/d/1HvTtnz8u9aMPzpYREcGDLHE4Cnz8pz-Wbzs674D-oP0/edit#slide=id.g318b0cc6c7e_1_0
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US">
+
+<meta charset="utf-8">
+
+<style>
+
+body {
+
+margin: 0;
+
+overflow: hidden;
+
+}
+
+</style>
+
+
+<!-- Order is important for these files since "app_main.js" reads from
+
+`window.loadTimeData`. -->
+
+<script src="/receiver.js" type="module"></script>
+
+
+<!-- Populates `window.loadTimeData.data`. Needs to be after "receiver.js" which
+
+loads "sandboxed_load_time_data.js". But module scripts do not block parsing,
+
+so these non-module scripts must be loaded on the defer queue. -->
+
+<script src="/strings.js" defer></script>
+
+<script src="/js/app_main.js" defer></script>
+
+
+</html>
+
+
+Step 2         3 docid   For Google Cube Play Button 
+
+https://docs.google.com/presentation/d/1RPgVGxVjkITBU8g98cRnSKp1OvD68curpbyMJIgK7nw/edit?fbclid=IwY2xjawH3P1NleHRuA2FlbQIxMAABHaNtvJXfUb4ndq5qhyqThYS1K_0ZV2YMCpOYgJUGkrqIeoJukpaF5pjhGg_aem_Mq4NkeHNx1t-yLo2umJDpg#slide=id.g318b0cc6c7e_1_13
+
+Step 3        3 docid    For Google Bluetooth Play Button Mirror Match Step Two For Ping And Puc 
+
+
+https://docs.google.com/presentation/d/e/2PACX-1vQVXYNzKhrCgcm5SBF-nv7yPJbnftbvdSXzWOxPA5ANlpbrwiD4OYPWp8a_hyQ90VIplz-iwKFHIHTV/embed?start=true&loop=true&delayms=3000&fbclid=IwY2xjawH3OFpleHRuA2FlbQIxMAABHUXPRpT4-YqW2vsSQhOep84kV2ughJZDVNJahfUXC1rGxd20bqH3I1kCNA_aem_RMdUqHAwHGuz_I3YhxrmOg&slide=id.g318b0cc6c7e_1_13
